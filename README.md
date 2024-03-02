@@ -45,5 +45,5 @@ query: ?name=\<search by name\>
 
 - https://vercel-harry-potter-houses-api.vercel.app/api/houses?name=gryffindor
 - https://vercel-harry-potter-houses-api.vercel.app/api/houses?name=rin
-- https://vercel-harry-potter-houses-api.vercel.app/api/houses?name=fle
-- https://vercel-harry-potter-houses-api.vercel.app/api/houses?name=raven
+- https://vercel-harry-potter-houses-api.vercel.app/api/houses?name=fLe
+- https://vercel-harry-potter-houses-api.vercel.app/api/houses?name=RaveN
